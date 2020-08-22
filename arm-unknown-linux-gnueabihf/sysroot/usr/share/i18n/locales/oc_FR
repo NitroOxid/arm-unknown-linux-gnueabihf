@@ -44,7 +44,7 @@ country_ab3 "FRA"
 country_num 250
 country_isbn "979-10"
 country_car "F"
-lang_name    "Occitan"
+lang_name    "occitan"
 lang_ab      "oc"
 lang_term    "oci"
 lang_lib     "oci"
@@ -131,7 +131,8 @@ mon     "de geni<U00E8>r";/
         "d<U2019>oct<U00F2>bre";/
         "de novembre";/
         "de decembre"
-d_t_fmt "%a %d %b %Y %T %Z"
+d_t_fmt  "%a %d %b %Y %T"
+date_fmt "%a %d %b %Y %T %Z"
 d_fmt   "%d//%m//%Y"
 t_fmt   "%T"
 am_pm   "";""

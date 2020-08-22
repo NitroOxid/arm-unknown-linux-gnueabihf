@@ -3,8 +3,8 @@
 # Interact with the user via stderr and stdin.
 
 PKGVERSION="(crosstool-NG 1.23.0.418-d590) "
-TZVERSION="2.29"
-REPORT_BUGS_TO="<http://www.gnu.org/software/libc/bugs.html>"
+TZVERSION="2.31"
+REPORT_BUGS_TO="<https://www.gnu.org/software/libc/bugs.html>"
 
 # Contributed by Paul Eggert.  This file is in the public domain.
 
