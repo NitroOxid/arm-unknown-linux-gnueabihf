@@ -1,5 +1,5 @@
 # -*- python -*-
-# Copyright (C) 2009-2019 Free Software Foundation, Inc.
+# Copyright (C) 2009-2020 Free Software Foundation, Inc.
 
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -19,7 +19,7 @@ import gdb
 import os
 import os.path
 
-pythondir = '/home/leming/x-tools7h-new/arm-unknown-linux-gnueabihf/share/gcc-9.3.0/python'
+pythondir = '/home/leming/x-tools7h-new/arm-unknown-linux-gnueabihf/share/gcc-10.2.0/python'
 libdir = '/home/leming/x-tools7h-new/arm-unknown-linux-gnueabihf/arm-unknown-linux-gnueabihf/lib'
 
 # This file might be loaded when there is no current objfile.  This
